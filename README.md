@@ -1,1 +1,1 @@
-# mental_healt_data_engineering_project
+# mental_health_data_engineering_project
