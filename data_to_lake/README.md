@@ -7,7 +7,8 @@
 ## Explanation:
 
 1. Importing Required Libraries:
-        The code begins by importing necessary libraries for Azure Blob Storage interaction, namely BlobServiceClient, BlobClient, and ContainerClient. Additionally, the os library is imported for handling file operations.
+    - The code begins by importing necessary libraries for Azure Blob Storage interaction, namely BlobServiceClient, BlobClient, and ContainerClient. Additionally, the os library is imported for handling file operations.
+          ![image](https://github.com/samsoberanis/mental_health_data_engineering_project/assets/130009380/842bc9af-fa34-4557-8347-47566fb3faba)
    
 2. Defining Variables:
    Several variables are defined to store essential information:
