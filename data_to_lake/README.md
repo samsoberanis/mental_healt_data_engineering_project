@@ -28,6 +28,8 @@
     - The file is opened in binary read mode ("rb") and its content is passed to the upload_blob method of the ContainerClient, along with the desired blob name.
     - Upon successful upload, a confirmation message is printed indicating the successful upload of the file to the specified container.
     - If an exception occurs during the upload process, an error message is printed.
+        ![image](https://github.com/samsoberanis/mental_health_data_engineering_project/assets/130009380/42689906-c420-486f-b432-1be3680318b6)
+
 
 5. Invoking the Upload Function:
     - The upload_to_azure_storage function is invoked with the provided parameters, passing in the Azure Storage account details, container name, local file path, and blob name.
