@@ -33,5 +33,7 @@
 
 5. Invoking the Upload Function:
     - The upload_to_azure_storage function is invoked with the provided parameters, passing in the Azure Storage account details, container name, local file path, and blob name.
+          ![image](https://github.com/samsoberanis/mental_health_data_engineering_project/assets/130009380/2883821d-4e44-4221-a7ff-f1e959fcb2c2)
+
 
 Overall, this code simplifies the process of uploading files to Azure Storage Blob containers, making it accessible and manageable via Python scripts.
