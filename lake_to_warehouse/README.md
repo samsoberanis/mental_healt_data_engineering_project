@@ -1,4 +1,4 @@
-# Transferring Data from Azure Data Lake Gen 2 to Azure Synapse Analytics
+# ETL from Azure Data Lake Gen 2 to Azure Synapse Analytics
 
 To commence the data transfer from the lake to the data warehouse, we must first establish the table that will accommodate the incoming data.
 
