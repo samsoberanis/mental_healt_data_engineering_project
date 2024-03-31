@@ -31,3 +31,9 @@ Lastly, a tile map visually depicts the countries where the survey was conducted
 
 ![image](https://github.com/samsoberanis/mental_health_data_engineering_project/assets/130009380/910f84ff-8e00-46bd-be02-b00c31c7dde4)
 
+
+----
+
+Unfortunately, I was unable to share a link to the dashboard since my trial period in Power BI has ended. However, in the docs of this folder and below you can find a jpg of the complete dashboard. 
+
+![image](https://github.com/samsoberanis/mental_health_data_engineering_project/assets/130009380/ceec197e-e7ee-4024-aaaa-4943b8fa2205)
