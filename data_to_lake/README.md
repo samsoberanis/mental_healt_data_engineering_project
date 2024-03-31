@@ -17,6 +17,8 @@
     - container_name: Indicates the name of the Azure Storage Blob container where the file will be uploaded.
     - file_path: Denotes the local file path of the file to be uploaded.
     - blob_name: Specifies the name to be assigned to the uploaded blob.
+        ![image](https://github.com/samsoberanis/mental_health_data_engineering_project/assets/130009380/0699091f-7746-42e2-bc72-1873cc493d8d)
+
 
 4. Defining the Upload Function (upload_to_azure_storage):
     - This function is responsible for uploading the specified file to Azure Storage Blob.
