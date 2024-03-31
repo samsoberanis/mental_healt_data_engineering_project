@@ -31,6 +31,7 @@ The pipeline encompasses the following stages:
 
 
 4. Finally, the transformed data is loaded into the mental_health table within the Data Warehouse.
+   
    ![image](https://github.com/samsoberanis/mental_health_data_engineering_project/assets/130009380/8b7dae57-76e3-48c5-a8c0-1b00aa7d9912)
 
 After running the pipeline we can query our table and check for the new loaded data.
